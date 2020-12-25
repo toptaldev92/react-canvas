@@ -9,8 +9,8 @@ var reloadPort = process.env.RELOAD_PORT || 35729;
 
 gulp.task('clean', function () {
   del(['build']);
-});
-// adsdffghfgjhjj
+}
+
 gulp.task('build', function () {
   return gulp.src(webpackConfig.entry.timeline[0])
     .pipe(webpack(webpackConfig))
