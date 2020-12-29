@@ -48,10 +48,6 @@ module.exports = [
     title: '5 Surprising Dental Care Tips From Robert De Niro',
     excerpt: 'At once, with a quick mental leap, he linked the Thing with the flash upon Mars. The thought of the confined creature was so dreadful to him that he forgot the heat and went forward to the cylinder to help turn.  But luckily the dull radiation arrested him before he could burn his hands on the still-glowing metal.  At that he stood irresolute for a moment, then turned, scrambled out of the pit, and set off running wildly into Woking.  The time then must have been somewhere about six o\'clock. He met a waggoner and tried to make him understand, but the tale he told and his appearance were so wild--his hat had fallen off in the pit--that the man simply drove on.',
     imageUrl: 'https://placekitten.com/369/429'
-  },
-  {
-    title: 'IA14 Awesome Facts That Asked Program From De Boya',
-    excerpt: 'Japanese means the same part between junior and jupitor.Others are same with him.I am looking for a job by own way through remoteok.io, but there is no effect.At first no social allows, not real time on voice and video call but friquently possible. Secondly I do not know what to do for looking a job, just do my own way. Just wanna know that. So many words to talk for greetings and so on, but sorry for asking such a silly way and a rude request. If have a time and a mind, give me a favor. best regards.',
-    imageUrl: 'https://placekitten.com/369/430'
-  },
+  }
+
 ];
